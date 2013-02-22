@@ -1,3 +1,3 @@
 web-dev-recipes
 ===============
-Fron end Web development recipes
+Front end Web development recipes
